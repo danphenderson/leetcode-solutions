@@ -15,7 +15,7 @@ Time complexity: $O(n)$ The entire tree is traversed once to build the graph, an
 Space complexity: $O(n)$ The graph representation and BFS queue may hold all nodes in the worst case.
 
 # Code
-```
+```python
 # Definition for a binary tree node.
 from collections import deque
 
