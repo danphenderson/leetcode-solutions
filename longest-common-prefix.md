@@ -4,8 +4,8 @@
 The problem of finding the longest common prefix is based on the principle of matching characters in the same position in each string. This naturally suggests the use of a pointer to keep track of the current position in each string. Additonally, we know the prefix cannot be longer than the shortest string, so we can use the length of the shortest string as a stopping condition.
 
 # Complexities
-- Time Complexity: $$O(n)$$, where $$n$$ is the length of the shortest string.
-- Space Complexity: $$O(1)$$, constant space is used.
+- Time Complexity: $O(n)$, where $n$ is the length of the shortest string.
+- Space Complexity: $O(1)$, constant space is used.
 
 
 # Code

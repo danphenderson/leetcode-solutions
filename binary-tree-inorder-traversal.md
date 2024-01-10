@@ -15,8 +15,8 @@ The provided algorithm employs a recursive strategy to achieve inorder traversal
 The initial invocation of traverse starts with the root node, triggering a depth-first exploration of the tree in an inorder manner.
 
 # Complexity
-- Time Complexity: The time complexity is $$O(n)$$, where $n$ is the number of nodes in the binary tree. This is because each node in the tree is visited exactly once during the traversal process.
-- Space Complexity: The space complexity is $$O(h)$$, where $h$ is the height of the tree. This represents the space used by the recursion stack. In the worst case (a skewed tree), the space complexity can degrade to $O(n)$, while for a balanced tree, it remains at $O(logn)$.
+- Time Complexity: The time complexity is $O(n)$, where $n$ is the number of nodes in the binary tree. This is because each node in the tree is visited exactly once during the traversal process.
+- Space Complexity: The space complexity is $O(h)$, where $h$ is the height of the tree. This represents the space used by the recursion stack. In the worst case (a skewed tree), the space complexity can degrade to $O(n)$, while for a balanced tree, it remains at $O(logn)$.
 
 
 # Code

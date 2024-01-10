@@ -4,8 +4,8 @@
 The problem of validating parentheses is based on the principle of matching pairs - every opening bracket must be closed by the same type of bracket, and in the correct order. This naturally suggests the use of a stack, a data structure that follows the Last-In, First-Out (LIFO) principle.
 
 # Complexities
-- Time Complexity: $$O(n)$$, where $$n$$ is the length of the input string.
-- Space Complexity: $$O(n)$$, where $$n$$ is the length of the input string.
+- Time Complexity: $O(n)$, where $n$ is the length of the input string.
+- Space Complexity: $O(n)$, where $n$ is the length of the input string.
 
 # Code
 ```python

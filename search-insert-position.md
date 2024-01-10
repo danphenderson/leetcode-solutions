@@ -4,8 +4,8 @@
 Binary search all day long.
 
 # Complexity
-- Time Complexity: $$O(\log{n})$$, where $$n$$ is the length of the input array.
-- Space Complexity: $$O(1)$$, constant space is used. (The variables `lp`, `rp`, and `mid` are the only additional storage used)
+- Time Complexity: $O(\log{n})$, where $n$ is the length of the input array.
+- Space Complexity: $O(1)$, constant space is used. (The variables `lp`, `rp`, and `mid` are the only additional storage used)
 
 # Code
 ```python

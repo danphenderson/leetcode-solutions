@@ -1,8 +1,8 @@
 # [Problem](https://leetcode.com/problems/climbing-stairs/description/)
 
 # Complexity
-- Time Complexity: $$O(n)$$, where $$n$$ is the number of steps to reach the top.
-- Space Complexity: $$O(1)$$, constant space is used.
+- Time Complexity: $O(n)$, where $n$ is the number of steps to reach the top.
+- Space Complexity: $O(1)$, constant space is used.
 
 # Code
 ```python

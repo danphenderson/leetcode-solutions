@@ -13,8 +13,8 @@ The algorithm starts by handling the base case of `numRows == 0`. For all other 
 
 
 # Complexity
-Time Complexity: $$O(n^2)$$, where $$n$$ is numRows. The time complexity arises from the nested loops: the outer loop runs for numRows iterations, and the inner loop's runtime is proportional to the row number, summing up to a quadratic time complexity. 
-Space Complexity: $$O(n^2)$$ as the space required is proportional to the number of elements in Pascal's triangle, which is the sum of the first n natural numbers, resulting in a quadratic relationship with the number of rows. The space complexity considers the storage required for the triangle structure itself, which holds all the computed values.
+Time Complexity: $O(n^2)$, where $n$ is numRows. The time complexity arises from the nested loops: the outer loop runs for numRows iterations, and the inner loop's runtime is proportional to the row number, summing up to a quadratic time complexity. 
+Space Complexity: $O(n^2)$ as the space required is proportional to the number of elements in Pascal's triangle, which is the sum of the first n natural numbers, resulting in a quadratic relationship with the number of rows. The space complexity considers the storage required for the triangle structure itself, which holds all the computed values.
 
 # Code
 My solution beats 97-percent of Python submissions' runtime.

@@ -6,8 +6,8 @@ We can merge two sorted lists by comparing the values of the two lists at each s
 This is an excercise in basic pointer manipulation.
 
 # Complexities
-- Time Complexity: $$O(n + m)$$, where $$n$$ and $$m$$ are the lengths of the two input lists.
-- Space Complexity: $$O(1)$$, constant space is used.
+- Time Complexity: $O(n + m)$, where $n$ and $m$ are the lengths of the two input lists.
+- Space Complexity: $O(1)$, constant space is used.
 
 # Code
 ```python

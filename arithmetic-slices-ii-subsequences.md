@@ -38,8 +38,8 @@ function countArithmeticSubsequences(nums):
 Note, in practice we can use a single hash map for the second dimension of the dp array. We can use a hash map where the key is the common difference and the value is the number of subsequences ending at i with that difference. This is because we only need to know the number of subsequences ending at i with a particular difference, not the subsequences themselves.
 
 # Complexities
-- Time Complexity: $$O(n^2k)$$, where $$n$$ is the length of the input array and $$k$$ is the number of unique differences between elements in the array.
-- Space Complexity: $$O(n^2)$$, where $$n$$ is the length of the input array.
+- Time Complexity: $O(n^2k)$, where $n$ is the length of the input array and $k$ is the number of unique differences between elements in the array.
+- Space Complexity: $O(n^2)$, where $n$ is the length of the input array.
 
 # Code
 This solution beat 91% of other submissions' runtime.

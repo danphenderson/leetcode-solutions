@@ -4,8 +4,8 @@
 The problem of converting a Roman numeral to an integer is based on the principle of subtracting the value of a symbol if the next symbol is of greater value. This naturally suggests the use of a pointer to keep track of the current symbol, and a variable to keep track of the result. When iterating through the string, we check if the next symbol is of greater value. If it is, we subtract the current symbol from the result. Otherwise, we add the current symbol to the result. Additionally, we know that the last symbol in the string will always be added to the result, so we can use this as a stopping condition. 
 
 # Complexities
-- Time Complexity: $$O(n)$$, where $$n$$ is the length of the input string.
-- Space Complexity: $$O(1)$$, constant space is used.
+- Time Complexity: $O(n)$, where $n$ is the length of the input string.
+- Space Complexity: $O(1)$, constant space is used.
 
 # Code
 This solution beat 95% of other submissions' runtime.

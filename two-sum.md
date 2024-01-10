@@ -4,8 +4,8 @@
 Work it out with pen and paper, and you will find the pattern.
 
 # Complexities
-- Time Complexity: $$O(n)$$, where $$n$$ is the length of the input array.
-- Space Complexity: $$O(n)$$, where $$n$$ is the length of the input array.
+- Time Complexity: $O(n)$, where $n$ is the length of the input array.
+- Space Complexity: $O(n)$, where $n$ is the length of the input array.
 
 # Code
 This solution beat 96% of other submissions' runtime.
