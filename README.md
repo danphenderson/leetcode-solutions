@@ -23,7 +23,7 @@ While this is a personal repository, suggestions and feedback are always welcome
 License
 -------
 
-This project is open-sourced under the [MIT License](LICENSE.md).
+This repository is open-sourced under the [MIT License](LICENSE.md).
 
 Contact
 -------
