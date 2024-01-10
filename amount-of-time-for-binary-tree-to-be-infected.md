@@ -11,8 +11,8 @@ This problem resembles a tree traversal combined with a breadth-first search (BF
 3. Determine Maximum Infection Time: As BFS progresses, update the maximum time taken to infect a node. This value represents the total time required to infect the entire tree.
 
 # Complexity
-Time complexity: $O(n)$ The entire tree is traversed once to build the graph, and BFS traverses each node once. n is the number of nodes in the tree.
-Space complexity: $O(n)$ The graph representation and BFS queue may hold all nodes in the worst case.
+- Time complexity: $O(n)$ The entire tree is traversed once to build the graph, and BFS traverses each node once. n is the number of nodes in the tree.
+- Space complexity: $O(n)$ The graph representation and BFS queue may hold all nodes in the worst case.
 
 # Code
 ```python

@@ -17,7 +17,6 @@ The main function `isSymmetric`` initially calls `is_mirror`` with the left and 
 
 # Complexity
 - Time complexity: The time complexity is $O(n)$, where nnn is the number of nodes in the tree. This is because we visit each node once.
-
 - Space complexity: The space complexity is $O(h)$, where $h$ is the height of the tree. This space is used by the call stack during the recursion. In the worst case (a completely unbalanced tree), this could be $O(n)$
 
 
