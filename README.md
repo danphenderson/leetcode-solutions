@@ -3,16 +3,6 @@ LeetCode Solutions
 
 Welcome to my repository of LeetCode solutions! The main goal is to document my journey through these problems, providing insights and explanations for each solution.
 
-Contents
---------
-
-- [LeetCode Solutions](#leetcode-solutions)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [License](#license)
-  - [Contact](#contact)
 
 Introduction
 ------------
