@@ -13,7 +13,7 @@ If none of these conditions are met, we recursively check:
 If the left child of the left node is a mirror of the right child of the right node.
 If the right child of the left node is a mirror of the left child of the right node.
 
-The main function `isSymmetric`` initially calls `is_mirror`` with the left and right children of the root node.
+The main function `isSymmetric` initially calls `is_mirror` with the left and right children of the root node.
 
 # Complexity
 - Time complexity: The time complexity is $O(n)$, where nnn is the number of nodes in the tree. This is because we visit each node once.
