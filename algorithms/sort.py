@@ -13,6 +13,9 @@ def bubble_sort(elements:list) -> list:
             break
     return elements
 
+def insertion_sort(elements:list) -> list:
+    ...
+
 def merge_sort(elements:list) -> list:
     ...
 
