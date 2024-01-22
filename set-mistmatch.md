@@ -6,7 +6,7 @@ The "Set Mismatch" problem asks us to find two integers in an array: one that ap
 # Approach
 1. Identifying the Duplicate: We iterate through the `nums` array, using a seen set to track the numbers we've encountered. When a number is seen for the first time, it's added to the sum `s1`. If a number is repeated, it does not contribute to `s1` again. By the end of the loop, `s1` contains the sum of unique numbers from the array.
 
-2. Finding the Missing Number: The missing number is found by calculating the sum of the first $n$ natural numbers (using the formula $n⋅(n+1)÷2) and subtracting `s1` from it. The difference gives the missing number.
+2. Finding the Missing Number: The missing number is found by calculating the sum of the first $n$ natural numbers (using the formula $n⋅(n+1)÷2$) and subtracting `s1` from it. The difference gives the missing number.
 
 Combining these two steps allows us to find both the duplicate number and the missing number.
 
